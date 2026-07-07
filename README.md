@@ -21,6 +21,6 @@ This project is an interactive Sales Performance Dashboard created using Microso
 - Data Analysis
 
 ## Dashboard Preview
-
+![Dashboard](PASTE_IMAGE_URL_HERE)
 
 
